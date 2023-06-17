@@ -1,10 +1,11 @@
-# Getting Started with Create React App
+# React movie seaching application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This application is for searching information on movies from a data base and will return basic information of the movie back in a card.
 
-## Available Scripts
+## React
 
-In the project directory, you can run:
+built only with react 
+languages include javascript, html, css
 
 ### `npm start`
 
