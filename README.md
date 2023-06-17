@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React movie search application
 
 This application searches the IMDb database for information on movies and will return basic information of that searched movie back in a card. The application is fully mobile responsive and will shrink down when on smaller resolutions.
@@ -5,6 +6,16 @@ This application searches the IMDb database for information on movies and will r
 ![full screen](./pictures/desktop.png)
 ![mobile screen](./pictures/mobile.png)
 
+=======
+# React movie seaching application
+
+This application is for searching information on movies from a data base and will return basic information of the movie back in a card.
+
+## React
+
+built only with react 
+languages include javascript, html, css
+>>>>>>> c60f4f206e0e05d726503eaf377dc253e8e7a9e3
 
 ## Build
 
