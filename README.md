@@ -5,7 +5,6 @@ This application searches the IMDb database for information on movies and will r
 ![full screen](./pictures/desktop.png)
 ![mobile screen](./pictures/mobile.png)
 
-=======
 # React movie seaching application
 
 This application is for searching information on movies from a data base and will return basic information of the movie back in a card.
