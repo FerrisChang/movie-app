@@ -11,12 +11,6 @@ This application searches the IMDb database for information on movies and will r
 
 This application is for searching information on movies from a data base and will return basic information of the movie back in a card.
 
-## React
-
-built only with react 
-languages include javascript, html, css
->>>>>>> c60f4f206e0e05d726503eaf377dc253e8e7a9e3
-
 ## Build
 
 Library: REACT
